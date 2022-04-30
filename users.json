@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "Bek",
+      "surname": "Bekov",
+      "email": "bek@gmail.com"
+    },
+    {
+      "name": "Bekeshov",
+      "surname": "Dastan ",
+      "email": "dastanbekeshov@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Erbol",
+      "surname": "Shakeev",
+      "email": "erbolshakeev@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Test",
+      "surname": "test",
+      "email": "test@mail.ru",
+      "id": 7
+    }
+  ]
+}
